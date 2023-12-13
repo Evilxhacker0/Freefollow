@@ -113,5 +113,5 @@ body {
   border-color: transparent;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   height: 85%; /* title bar height + content height */
-  width: 110%;
+  width: 100%;
 }
